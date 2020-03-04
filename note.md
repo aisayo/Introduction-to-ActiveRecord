@@ -1,0 +1,1 @@
+#environment => connects database, and ruby classes to activerecord
